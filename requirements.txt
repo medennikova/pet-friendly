@@ -1,0 +1,2 @@
+git+https://github.com/python-visualization/folium.git@de20189707f0018508ec246b7b39ab0e50ab97ef#egg=folium
+
